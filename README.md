@@ -2,9 +2,4 @@
 
 -List
 -List
-
-<<<<<<< HEAD
-=======
-**Strong**
-_italic_
->>>>>>> A
+12:40 pm
